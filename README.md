@@ -8,7 +8,8 @@ main.sln i çalıtırın ve kendi sertifikalarınızı üretin.
 
 Not: roslyn\csc.exe'. ile alakalı bir error alırsanız package manager console ' a alttaki kodu yazın ve daha sonra tekrar çalıştırın.
 
-pdate-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
+
+Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
 
 ----------------------------------------------------------------------------------------------------------------------
 İngilizce - English
@@ -17,5 +18,7 @@ mvc project that generates x.509 v3 type self-signed digital certificate using s
 Run main.sln and generate your own certificates.
 
 Note: roslyn\csc.exe'. If you get like this error put the code where is below and paste package manager console.
-pdate-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
+
+
+Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
 ----------------------------------------------------------------------------------------------------------------------
